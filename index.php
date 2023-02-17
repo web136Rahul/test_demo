@@ -10,8 +10,5 @@
     <div>
         dummy_text
     </div>
-     <div>
-        dummy_text
-    </div>
 </body>
 </html>
